@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SCH_ESP32-S31-Korvo-1_V1.1_20260515_Library") (type "Altium") (uri "${KIPRJMOD}/SCH_ESP32-S31-Korvo-1_V1.1_20260515_Library.SchLib") (options "") (descr ""))
+	(lib (name "Espressif") (type "KiCad") (uri "${KIPRJMOD}/LIB/Espressif.kicad_sym") (options "") (descr ""))
+)
